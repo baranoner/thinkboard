@@ -33,7 +33,8 @@
    cd ../backend
    npm install
 3. **.env Setup**
-   ### Create a file with .env extension in backend (`/backend`)
+
+Create a file with .env extension in backend (`/backend`)
 ```
 MONGO_URI=<your_mongo_uri>
 
