@@ -1,6 +1,6 @@
 ## 🧪 .env Setup
 
-### Backend (`/backend`)
+### Create a file with .env extension in backend (`/backend`)
 
 ```
 MONGO_URI=<your_mongo_uri>
