@@ -20,6 +20,11 @@
 
 ---
 
+## 📸 Gif
+
+![ezgif-3232acf975d19c](https://github.com/user-attachments/assets/bbfc35a7-66d6-4d6a-ae5c-56564500066d)
+---
+
 ## ⚙️ Setup
 
 1. **Clone Repository**
