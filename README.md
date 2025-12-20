@@ -1,18 +1,18 @@
-# 🌐 Thinkboard
+# Thinkboard
   
  A full-stack note-taking app with a RESTful API.
 
 ---
 
-## 🚀 Features
-- 📄 CRUD operations for the note data
-- 📱 Responsive UI built with React
-- ⚙️ RESTful API with Express
-- 🗄️ Database integration (MongoDB)
+## Features
+-  CRUD operations for the note data
+-  Responsive UI built with React
+-  RESTful API with Express
+-  Database integration (MongoDB)
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 **Frontend:** React + Vite + TailwindCSS  
 **Backend:** Node.js + Express  
 **Database:** MongoDB (Mongoose)  
@@ -20,12 +20,12 @@
 
 ---
 
-## 📸 Gif
+## Gif
 
 ![ezgif-3232acf975d19c](https://github.com/user-attachments/assets/bbfc35a7-66d6-4d6a-ae5c-56564500066d)
 ---
 
-## ⚙️ Setup
+## Setup
 
 1. **Clone Repository**
    ```bash
@@ -56,7 +56,7 @@ cd backend
 npm run dev
 ```
 Backend -> http://localhost:5001
-## 💻 Run the Frontend
+## Run the Frontend
 
 ```
 cd frontend
